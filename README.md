@@ -1,0 +1,2 @@
+# programming_basic_exercise_asano_2007
+浅野(2007)「プログラミングの基礎」オーム社の演習を行うためのリポジトリ
